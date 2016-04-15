@@ -9,13 +9,13 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Gustavo Mendonca's Github Page
-tagline: gmendonca, github, jekyll
+tagline: tagline
 author :
   name : Gustavo Mendonca
   email : gustavogmend@gmail.com
   github : gmendonca
   twitter : gustavogmend
-#  feedburner : feedname
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
