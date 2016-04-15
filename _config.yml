@@ -3,7 +3,7 @@ title: Gustavo Mendonca's Github Page
 name: Gustavo Mendonca
 email: gustavogmend@gmail.com
 description: >
-    A simple Github blog like page.
+    A simple Github Blog page.
 baseurl: "https://gmendonca.github.io" # the subpath of your site, e.g. /blog
 url: "https://gmendonca.github.io" # the base hostname & protocol for your site
 twitter_username: gustavogmend # your Twitter username
